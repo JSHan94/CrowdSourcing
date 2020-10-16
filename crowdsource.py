@@ -70,7 +70,7 @@ def main():
     # plt.plot([i/100 for i in range(50,100)],[crowd.double_check(i/100,0.99,4) for i in range(50,100)])
     # plt.plot([i/100 for i in range(50,100)],[crowd.consensus(3,i/100) for i in range(50,100)])
     # plt.plot([i/100 for i in range(50,100)],[crowd.consensus(5,i/100) for i in range(50,100)])
-    # plt.plot([i/100 for i in range(50,100)],[crowd.consensus(10,i/100) for i in range(50,100)])
+    #`` plt.plot([i/100 for i in range(50,100)],[crowd.consensus(10,i/100) for i in range(50,100)])
     # plt.plot([i/100 for i in range(50,100)],[crowd.consensus(20,i/100) for i in range(50,100)])
     # plt.xlabel('Annotator Auc')
     # plt.ylabel('Label Auc')
